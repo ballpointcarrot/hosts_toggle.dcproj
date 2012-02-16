@@ -1,0 +1,7 @@
+hosts_toggle - a host file swapper dashboard widget for OSX
+
+Usage:
+ * create two copies of your /etc/hosts files: /etc/hosts.orig and /etc/hosts.dev.
+ * Adjust these as needed to define your hosts for normal and dev mode.
+ * build the dashboard widget using dashcode
+    - From the File menu, select Deploy, and from the menu shown, select "Delpoy to Dashboard."

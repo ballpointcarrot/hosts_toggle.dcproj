@@ -9,7 +9,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>Untitled</string>
 	<key>CFBundleIdentifier</key>
-	<string>org.sreducation.widget.hosts</string>
+	<string>net.ballpointcarrot.widget.hosts</string>
 	<key>CFBundleName</key>
 	<string>Untitled</string>
 	<key>CFBundleShortVersionString</key>
