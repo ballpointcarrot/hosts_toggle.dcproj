@@ -1,0 +1,1 @@
+osascript -e 'do shell script "cp /etc/hosts.dev /etc/hosts" with administrator privileges'
